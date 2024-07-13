@@ -1,9 +1,9 @@
 //base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @DGXeon
-//Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
+//YouTube: @Zainibhaii
+//Instagram: Zain_nawab97
+//Telegram: t.me/zainibhaii
+//GitHub: @Zainnawab69
 //WhatsApp: +916909137213
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 require('./lib/listmenu')
@@ -411,8 +411,8 @@ contextInfo: {
 forwardingScore: 999,
 isForwarded: true,
 forwardedNewsletterMessageInfo: {
-newsletterName: "Click here to get $69",
-newsletterJid: "120363222395675670@newsletter",
+newsletterName: "DARK HEART🖤",
+newsletterJid: "12036322239567567@newsletter",
 },
 externalAdReply: {  
 showAdAttribution: true,
